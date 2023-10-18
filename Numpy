@@ -1,0 +1,8 @@
+#
+It is fast
+It needs less memeory
+nd array
+
+#Application
+Machine learning analysis
+Data analysisBackbone of many other python packages
