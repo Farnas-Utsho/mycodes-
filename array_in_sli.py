@@ -1,6 +1,7 @@
 import numpy as np
 #Data scientist 
 #Time to pull
+#Working 100%
 # Array indexing and slicing
 # Here     [ 1 2 3 4 5]
 # indexing ( 0 1 2 3 4)
